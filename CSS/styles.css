@@ -38,6 +38,10 @@
 	margin-left: 15px;
 }
 
+.navigation-list__item--active {
+  text-decoration: none;
+}
+
 body {
 	font-family: 'Stick No Bills', sans-serif;
 	font-weight: 400;
